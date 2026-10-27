@@ -6,5 +6,7 @@ namespace ConsoleApp_2026
 {
     internal class Persona
     {
+        public int Edad { get; set}
+
     }
 }
